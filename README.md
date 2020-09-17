@@ -1,10 +1,8 @@
 # seg2105f20-lab1-group36
-seg2105f20-lab1-group36 created by GitHub Classroom
 
+Group Members are:
 
-**Team Members:**
-
-Katherine Chen\
-Mohammed Riyad El azhari\
-Ghazal Sadeghpour\
-Basma Kaanane
+* Katherine Chen\
+* Mohammed Riyad El azhari\
+* Ghazal Sadeghpour\
+* Basma Kaanane
