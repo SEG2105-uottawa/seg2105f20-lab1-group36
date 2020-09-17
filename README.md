@@ -2,7 +2,7 @@
 
 Group Members are:
 
-* Katherine Chen\
-* Mohammed Riyad El azhari\
-* Ghazal Sadeghpour\
+* Katherine Chen
+* Mohammed Riyad El azhari
+* Ghazal Sadeghpour
 * Basma Kaanane
