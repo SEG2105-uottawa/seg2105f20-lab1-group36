@@ -3,6 +3,6 @@
 Group Members are:
 
 * Katherine Chen
-* Mohammed Riyad El azhari
+* Riyad El Azhari
 * Ghazal Sadeghpour
 * Basma Kaanane
