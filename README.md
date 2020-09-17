@@ -6,4 +6,4 @@ seg2105f20-lab1-group36 created by GitHub Classroom
 Katherine Chen\
 Mohammed Riyad El azhari\
 Ghazal Sadeghpour\
-Basma Kaanane\
+Basma Kaanane
